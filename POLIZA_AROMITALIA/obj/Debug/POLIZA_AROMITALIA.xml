@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+POLIZA_AROMITALIA
+</name>
+</assembly>
+<members>
+<member name="T:POLIZA_AROMITALIA.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources._3d_emaiL">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources._7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.cerrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.database_4_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.database_add">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.editarficha">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.Email_Chat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.enviar_correo_icono_7582_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.icon_edit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.Logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.logo_aromitalia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.LOGO_GCTRIA_V3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.LOGO_GCTRIA_V31">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.mail_icon_32x32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.menuButton">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.PALOMITA">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.result__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.start">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.tache03">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:POLIZA_AROMITALIA.My.Resources.Resources.win2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSet.CORREOS_INSOFTECDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSet.CORREOS_INSOFTECRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSet.CORREOS_INSOFTECRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSetTableAdapters.CORREOS_INSOFTECTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POLIZA_AROMITALIA.COI7DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(POLIZA_AROMITALIA.COI7DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(POLIZA_AROMITALIA.COI7DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.UpdateAll(POLIZA_AROMITALIA.COI7DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COI7DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDS.CORREOS_INSOFTECDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDS.CORREOS_INSOFTECRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDS.CORREOS_INSOFTECRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDSTableAdapters.CORREOS_INSOFTECTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(POLIZA_AROMITALIA.COIDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.UpdateInsertedRows(POLIZA_AROMITALIA.COIDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.UpdateDeletedRows(POLIZA_AROMITALIA.COIDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.UpdateAll(POLIZA_AROMITALIA.COIDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:POLIZA_AROMITALIA.COIDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

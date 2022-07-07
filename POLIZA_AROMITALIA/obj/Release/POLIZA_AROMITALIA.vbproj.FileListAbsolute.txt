@@ -1,0 +1,82 @@
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.xml
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbprojResolveAssemblyReference.cache
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form1.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form2.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form3.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Resources.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbproj.GenerateResource.Cache
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.exe
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.xml
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA - copia (2)\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.exe
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.xml
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.xml
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbprojResolveAssemblyReference.cache
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form1.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form2.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form3.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Resources.resources
+C:\Users\DEVELOPMENT\Documents\Visual Studio 2015\Projects\DEV_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\POLIZA_AROMITALIA.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\POLIZA_AROMITALIA\INSOFTEC\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\POLIZA_AROMITALIA _2015\POLIZA_AROMITALIA\obj\Release\POLIZA_AROMITALIA.vbproj.GenerateResource.Cache
