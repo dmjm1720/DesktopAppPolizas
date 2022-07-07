@@ -96,7 +96,7 @@ Public Class ValidarCuentaCompra
                     connection2.Close()
                 End Using
 
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
                 Using INSERT_TOTPART As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("SAE").ToString)
 
                     INSERT_TOTPART.Open()

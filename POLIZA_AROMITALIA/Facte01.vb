@@ -95,7 +95,7 @@ Public Class Facte01
                 AUXILIAR = AUXI & EJER_FISCAL
                 POLIZA = POLIZ & EJER_FISCAL
                 CUENTA = CUENT & EJER_FISCAL
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
 
                 Using ConPol As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                     ConPol.Open()
@@ -978,7 +978,7 @@ Public Class Facte01
                     CapturaXMLCasilla() 'se manda correo cuando no está habilitada la casilla de captura de comprobantes
                 End If
 
-                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-MM-dd HH:mm:ss")
+                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-dd-MM HH:mm:ss")
 
 
                 Using ALFA As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)

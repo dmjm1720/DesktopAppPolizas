@@ -51,7 +51,7 @@ Public Class NuevasSalidas
                         AUXILIAR = AUXI & EJER_FISCAL
                         POLIZA = POLIZ & EJER_FISCAL
                         CUENTA = CUENT & EJER_FISCAL
-                        FECH = FECHAELABMIN.ToString("yyyy-MM-dd")
+                        FECH = FECHAELABMIN.ToString("yyyy-dd-MM")
                         y += 1
                         Using ConPol As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                             ConPol.Open()
@@ -144,7 +144,7 @@ Public Class NuevasSalidas
                 'UPDATE INSOFTEC_MINVE01
                 Using ConnMinveInsof As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("SAE").ToString)
                     ConnMinveInsof.Open()
-                    Dim cmdConnMinveinsof As New SqlCommand(("UPDATE INSOFTEC_MINVE_OUT SET CAMPLIB1='Dr" & contador & "', CAMPLIB2='PROCESO 1', FECHA_DOCU='" & FECHADOCU.ToString("yyyy-MM-dd") & "' WHERE CVE_FOLIO='" & CVEFOLIO & "'"), ConnMinveInsof)
+                    Dim cmdConnMinveinsof As New SqlCommand(("UPDATE INSOFTEC_MINVE_OUT SET CAMPLIB1='Dr" & contador & "', CAMPLIB2='PROCESO 1', FECHA_DOCU='" & FECHADOCU.ToString("yyyy-dd-MM") & "' WHERE CVE_FOLIO='" & CVEFOLIO & "'"), ConnMinveInsof)
                     cmdConnMinveinsof.ExecuteNonQuery()
                     ConnMinveInsof.Close()
                 End Using

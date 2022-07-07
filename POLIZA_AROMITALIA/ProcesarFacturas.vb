@@ -111,7 +111,7 @@ Public Class ProcesarFacturas
                     INSERT_FOLIO.Close()
                 End Using
 
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
                 Using INSERT_TOTPART As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("SAE").ToString)
 
                     INSERT_TOTPART.Open()
@@ -633,7 +633,7 @@ Public Class ProcesarFacturas
                     CapturaXMLCasilla() 'se manda correo cuando no está habilitada la casilla de captura de comprobantes
                 End If
 
-                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-MM-dd HH:mm:ss")
+                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-dd-MM HH:mm:ss")
 
                 'FECH1 = FECHA_CERT_FACTURA.ToString("yyyy-MM-dd HH:mm:ss")
 

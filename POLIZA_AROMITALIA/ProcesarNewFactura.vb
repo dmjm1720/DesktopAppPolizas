@@ -87,6 +87,7 @@ Public Class ProcesarNewFactura
                 DOC_ANT = dtFact.AsEnumerable().ElementAtOrDefault(j).Item(36).ToString
 
                 Dim extrae_per As String = FECHA_DOC
+
                 Dim Testarray() As String = extrae_per.Split("/")
                 EJERCICIO = Testarray(2).Trim
                 PERIODO = Testarray(1).Trim
@@ -96,7 +97,8 @@ Public Class ProcesarNewFactura
                 AUXILIAR = AUXI & EJER_FISCAL
                 POLIZA = POLIZ & EJER_FISCAL
                 CUENTA = CUENT & EJER_FISCAL
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                'Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
 
                 Using ConPol As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                     ConPol.Open()
@@ -299,6 +301,8 @@ Public Class ProcesarNewFactura
                             Dim v = IsNumeric(DEPTO)
                             If v = True Then
                                 Dim cmdAux As New SqlCommand(("INSERT INTO " & AUXILIAR & " (TIPO_POLI, NUM_POLIZ, NUM_PART, PERIODO, EJERCICIO, NUM_CTA, FECHA_POL, CONCEP_PO, DEBE_HABER, MONTOMOV, NUMDEPTO,TIPCAMBIO,CONTRAPAR,ORDEN, CCOSTOS,CGRUPOS) VALUES ('" & TIPOFACTF & "',RIGHT('     ' + LTRIM(RTRIM(" & contador & ")), 5),'" & y + 2 & "','" & PERIODO & "','" & EJERCICIO & "','" & NUEVOIVA & "','" & FECH & "','" + CVE_DOC + "  " + CVE_ART + "','H','" & Math.Round(CANTIDADTOTAL, 2) & "','" & DEPTO & "','" & TIPCAMB & "','0','" & y + 2 & "','0','0');"), ConAux)
+                                'MsgBox("Error" + TIPOFACTF & contador & y + 2 & PERIODO & EJERCICIO & NUEVOIVA & FECH & "','" + CVE_DOC + "  " + CVE_ART + "','H','" & Math.Round(CANTIDADTOTAL, 2) & "','" & DEPTO & "','" & TIPCAMB & "','0','" & y + 2)
+
                                 cmdAux.ExecuteNonQuery()
                             End If
                             ConAux.Close()
@@ -977,7 +981,7 @@ Public Class ProcesarNewFactura
                     CapturaXMLCasilla() 'se manda correo cuando no está habilitada la casilla de captura de comprobantes
                 End If
 
-                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-MM-dd HH:mm:ss")
+                Dim FECH1 As String = FECHA_CERT_FACTURA.ToString("yyyy-dd-MM HH:mm:ss")
 
 
                 Using ALFA As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)

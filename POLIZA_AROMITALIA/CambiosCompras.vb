@@ -98,7 +98,7 @@ Public Class CambiosCompras
                     connection2.Close()
                 End Using
 
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
                 Using INSERT_TOTPART As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("SAE").ToString)
                     INSERT_TOTPART.Open()
                     Dim adapter50 As SqlDataReader = New SqlCommand("SELECT COUNT(CVE_DOC) FROM " & PAR_COMPC & " WHERE (CVE_DOC='" & CVE_DOC & "')", INSERT_TOTPART).ExecuteReader

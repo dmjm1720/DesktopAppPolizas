@@ -77,7 +77,7 @@ Public Class Facte01NC
                 AUXILIAR = AUXI & EJER_FISCAL
                 POLIZA = POLIZ & EJER_FISCAL
                 CUENTA = CUENT & EJER_FISCAL
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
 
                 Using ConPol As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                     ConPol.Open()
@@ -728,7 +728,7 @@ Public Class Facte01NC
                     CapturaXMLCasilla()
                 End If
 
-                Dim UUFECH1 As String = FECHA_CERT_DEVOLUCION.ToString("yyyy-MM-dd HH:mm:ss")
+                Dim UUFECH1 As String = FECHA_CERT_DEVOLUCION.ToString("yyyy-dd-MM HH:mm:ss")
 
                 Using ALFA As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                     ALFA.Open()

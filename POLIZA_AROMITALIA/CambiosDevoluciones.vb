@@ -75,7 +75,7 @@ Public Class CambiosDevoluciones
                 AUXILIAR = AUXI & EJER_FISCAL
                 POLIZA = POLIZ & EJER_FISCAL
                 CUENTA = CUENT & EJER_FISCAL
-                Dim FECH As String = FECHA_DOC.ToString("yyyy-MM-dd")
+                Dim FECH As String = FECHA_DOC.ToString("yyyy-dd-MM")
                 Dim cut As String = CAMPOPOLIZADEV.Substring(2)
 
                 Using ConnPeriod As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)

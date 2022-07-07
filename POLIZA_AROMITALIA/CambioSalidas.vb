@@ -55,7 +55,7 @@ Public Class CambioSalidas
                         AUXILIAR = AUXI & EJER_FISCAL
                         POLIZA = POLIZ & EJER_FISCAL
                         CUENTA = CUENT & EJER_FISCAL
-                        FECH = FECHAELABMIN.ToString("yyyy-MM-dd")
+                        FECH = FECHAELABMIN.ToString("yyyy-dd-MM")
 
                         Using ConnPeriod As SqlConnection = New SqlConnection(ConfigurationManager.ConnectionStrings.Item("COI").ToString)
                             ConnPeriod.Open()
